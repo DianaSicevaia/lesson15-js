@@ -11,8 +11,8 @@ var myStr = 'строка';
 var myBool = true;
 var myArr = [1, 2, 3, 4, 5]; 
 var myObj = {
-    first: 'First name',
-    last: 'Last name'
+    first: 'First Name',
+    last: 'Last Name'
 }; 
 
 console.log('myNum: ', myNum);
